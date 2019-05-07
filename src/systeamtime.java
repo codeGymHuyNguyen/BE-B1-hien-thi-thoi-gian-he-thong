@@ -1,7 +1,7 @@
 import java.util.Date;
 
 public class systeamtime {
-    public static void main(String[] args) {
+    public  void main2(String[] args) {
         Date now = new Date();
 
         System.out.println("Now is :" + now);
